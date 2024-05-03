@@ -29,7 +29,7 @@
 
 .header {
   height: 689px;
-  background-image: url(/img/fon.png);
+  background-image: url(../img/fon.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #DD2211;
