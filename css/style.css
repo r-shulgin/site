@@ -229,7 +229,7 @@ p.colum {
     color: rgb(22, 22, 22);
     line-height: 28px;
     text-align: center;
-    padding-bottom: 20px;
+    #padding-bottom: 20px;
 }
 p.colum__text {
     font-size: 20px;
